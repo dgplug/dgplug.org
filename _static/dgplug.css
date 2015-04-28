@@ -49,20 +49,6 @@ body {
   font-weight: 300;
 }
 
-a {
-    -webkit-transition: all .5s;
-    -moz-transition: all .5s;
-    transition: all .5s;
-}
-
-a:hover,
-a:focus {
-    text-decoration: none;
-    color: inherit;
-}
-
-
-
 hr.left {
     margin: 15px auto 15px 0;
 }
