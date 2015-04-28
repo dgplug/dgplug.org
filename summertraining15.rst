@@ -19,3 +19,55 @@ Objectives
 - Get acquainted with Free Software technologies
 - Gaining technical knowledge
 - Real-world project experience
+
+Speciality
+----------
+
+- Online reading material will be provided.
+- Talks given by different international upstream developers.
+- Direct interaction with the developers.
+- Soft skill training (online communications).
+
+List of courses
+---------------
+
+- Communication skills
+- Introduction to shell
+- Buffer editors (Vi)
+- Free Software project guidelines
+- Code cross-referencing tools
+- Documentation
+- Basic system administration
+- Source code management systems (Mercurial & Git)
+- How to write conference proposals
+- Programming using Python
+
+What is required to join this training/Pre-requisites
+-----------------------------------------------------
+
+- A computer with any recent GNU/Linux distribution installed.
+- A decent Internet connection.
+- Attitude to learn.
+- Go through previous years' IRC session logs.
+
+Contact
+-------
+Kushal Das <kushaldas AT gmail DOT com>
+
+
+How to join?
+------------
+
+Fill this google form.
+
+Mailing List
+------------
+
+- http://lists.dgplug.org/listinfo.cgi/users-dgplug.org.
+
+IRC
+---
+
+- #dgplug on irc.freenode.net
+
+
