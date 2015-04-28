@@ -23,17 +23,6 @@
                 <li><a href="{{ pathto(*link[1:]) }}">{{ link[0] }}</a></li>
               {%- endfor %}
             {% endif %}
-            {% block navbartoc %}
-              {% include "globaltoc.html" %}
-              {% if theme_navbar_pagenav %}
-                {% include "navbartoc.html" %}
-              {% endif %}
-            {% endblock %}
-            {% if theme_navbar_sidebarrel %}
-              {% block sidebarrel %}
-                {% include "relations.html" %}
-              {% endblock %}
-            {% endif %}
             {% block navbarextra %}
             {% endblock %}
             {% block navbarsearch %}
