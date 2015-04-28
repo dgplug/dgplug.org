@@ -129,9 +129,10 @@ html_theme_options = {
     # Tab name for the current pages TOC. (Default: "Page")
     'navbar_pagenav_name': "",
     'navbar_links': [
-        ("About", "about"),
-        ("Links", "links"),
-        ("Contact", "contact")
+        ("Mailing list", "http://lists.dgplug.org/listinfo.cgi/users-dgplug.org"),
+        ("IRC stats", "http://dgplug.org/ircstat/"),
+        ("Planet", "http://planet.dgplug.org/"),
+        ("Help", "http://text.dgplug.org/page/help")
     ],
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
