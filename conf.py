@@ -48,7 +48,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'dgplug.org'
-copyright = u'2015, Kushal Das'
+copyright = u'2004-2015, dgplug team'
 author = u'Kushal Das'
 
 # The version info for the project you're documenting, acts as replacement for

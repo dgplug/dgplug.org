@@ -1,16 +1,16 @@
-I Know What You Are Going To Do This Summer 14
+I Know What You Are Going To Do This Summer 15
 ==============================================
 
 Do you want to see your name next time you install GNU/Linux in your friend's computer?
 
-Online summer training from GNU/Linux User Group of Durgapur (`http://dgplug.org <http://dgplug.org>`_). All are welcome.
+Online summer training from `Linux User Group of Durgapur <http://dgplug.org>`_. All are welcome.
 
 Entry Free!
 
 Probable Starting Time
 ----------------------
 
-28th June 2015, 18:30 IST
+20th June 2015, 18:30 IST
 
 Objectives
 ----------
