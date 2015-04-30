@@ -20,7 +20,7 @@
           <ul class="nav navbar-nav navbar-right">
             {% if theme_navbar_links %}
               {%- for link in theme_navbar_links %}
-                <li><a href="{{ pathto(*link[1:]) }}">{{ link[0] }}</a></li>
+                <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
               {%- endfor %}
             {% endif %}
             {% block navbarextra %}
