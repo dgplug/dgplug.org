@@ -58,7 +58,7 @@ Kushal Das <kushaldas AT gmail DOT com>
 How to join?
 ------------
 
-Fill this google form.
+Fill `this google form <http://goo.gl/forms/aCjNPr7qWF>`_.
 
 Mailing List
 ------------
