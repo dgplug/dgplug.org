@@ -55,7 +55,7 @@ What is required to join this training/Pre-requisites
 - A computer with any recent GNU/Linux distribution installed (We prefer Fedora 21/22).
 - A decent Internet connection.
 - Attitude to learn.
-- Go through previous years' IRC session logs.
+- Go through previous years' IRC session `logs <http://dgplug.org/irclogs/>`_.
 
 Contact
 -------
