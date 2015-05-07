@@ -57,6 +57,19 @@ What is required to join this training/Pre-requisites
 - Attitude to learn.
 - Go through previous years' IRC session `logs <http://dgplug.org/irclogs/>`_.
 
+Guest sessions
+---------------
+
+Through out this training we get many upstream contributors giving special sessions. The topics
+for these sessions varies a lot, starting from personal stories about how they started contributing, to
+software licenses, documentation projects etc.
+
+Below is a probable list of guest speakers in 2015.
+
+- Kiran Jonnalagadda (co-founder, Hasgeek)
+- Siddhesh Poyarekar (Glibc upstream)
+- Abhilash Raj (Mailman upstream)
+
 Contact
 -------
 Kushal Das <kushaldas AT gmail DOT com>
