@@ -66,9 +66,9 @@ software licenses, documentation projects etc.
 
 Below is a probable list of guest speakers in 2015.
 
-- Kiran Jonnalagadda (co-founder, Hasgeek)
-- Siddhesh Poyarekar (Glibc upstream)
-- Abhilash Raj (Mailman upstream)
+- `Kiran Jonnalagadda <https://twitter.com/jackerhack>`_ (co-founder, Hasgeek)
+- `Siddhesh Poyarekar <https://twitter.com/siddhesh_p>`_ (Glibc upstream)
+- `Abhilash Raj <https://twitter.com/_maxking_>`_ (Mailman upstream)
 
 Contact
 -------
