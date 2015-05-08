@@ -47,7 +47,7 @@ List of courses
 - Basic system administration
 - Source code management systems (Mercurial & Git)
 - How to write conference proposals?
-- Programming using Python
+- How to make computer to do your work? (We speak Python to do so).
 
 What is required to join this training/Pre-requisites
 -----------------------------------------------------
