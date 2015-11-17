@@ -1,9 +1,7 @@
-* Wishlist
-
 ===
 Web
 ===
-  
+
 - HTMLize the dgplug IRC text logs
 
   A sample dgplug IRC log session is available at:
@@ -15,7 +13,7 @@ Web
   3. Create an index page to quickly refer and link all the logs.
 
   Contact: "mbuf" on #dgplug
-     
+
 - "Selection Affection"
 
   A web application.
