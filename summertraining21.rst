@@ -15,7 +15,7 @@ lasts for almost 3 months, sessions are generally at 19:00 IST onwards.
 Probable Starting Time
 ----------------------
 
-28th June 2020, 19:00 IST
+28th June 2021, 19:00 IST
 
 Objectives
 ----------
